@@ -23,3 +23,11 @@ Tables of Contents:
 19. Zippers
 20. Webapps with Yesod
 
+Chapter 1. Depature
+Chapter 2. Initiation
+Chapter 3. Return
+Chapter 4. Emanations
+Chapter 5. The Virgin Bith
+Chapter 6. Transformations of the Hero
+Chapter 7. Dissolutions
+Chapter 8. Myth and Society
