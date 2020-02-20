@@ -9,3 +9,5 @@
 5. Kinds, Types, and Classes
 6. Purity and the IO Monad
 
+_. About the Author
+
