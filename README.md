@@ -1,4 +1,6 @@
-# The Haskell Book -- Theoretical Foundations : 
+# Functional Programming -- Theoretical Foundations : 
+
+![Book Cover](https://github.com/seanwestfall/haskell_book/blob/master/img/cover.png)
 
 ## Tables of Contents:
 0. Introduction  
