@@ -2,6 +2,8 @@
 
 ![Book Cover](https://github.com/seanwestfall/haskell_book/blob/master/img/cover.png)
 
+LeanPub: https://leanpub.com/functionalprogrammingtheoreticalfoundations
+
 ## Tables of Contents:
 0. Introduction  
 1. What is a Function  
