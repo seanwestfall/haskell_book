@@ -12,6 +12,8 @@ LeanPub: https://leanpub.com/functionalprogrammingtheoreticalfoundations
 4. Type Checking and Unification  
 5. Kinds, Types, and Classes
 6. Purity and the IO Monad
+7. A Word on Metaprogramming
+8. Communicating Sequential Processes
 
 _. About the Author
 
