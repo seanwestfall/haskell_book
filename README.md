@@ -15,6 +15,7 @@ LeanPub: https://leanpub.com/functionalprogrammingtheoreticalfoundations
 7. Dependent Types
 8. A Word on Metaprogramming
 9. Communicating Sequential Processes
+10. Large Cardinals
 
 _. About the Author
 
